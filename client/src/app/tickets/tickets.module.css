@@ -1,2 +1,12 @@
 .tickets {
 }
+.modal-row-custom {
+  display: flex;
+  column-gap: 8px;
+  align-items: center;
+}
+
+.buttons-row-custom {
+  display: flex;
+  column-gap: 8px;
+}
